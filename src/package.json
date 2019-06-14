@@ -1,0 +1,14 @@
+{
+  "name": "devicecounter",
+  "version": "1.0.0",
+  "description": "Count Wifi client device around the counter ",
+  "main": "dc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin" : {
+      "wifi-start-count" : "./dc.js"
+  },
+  "author": "thuyca",
+  "license": "ISC"
+}
