@@ -1,4 +1,4 @@
-#!/usr/local/bin/node
+#!/usr/bin/nodejs
 
 var macList = []
 var exec = require('child_process').exec;
